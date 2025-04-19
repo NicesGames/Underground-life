@@ -1,2 +1,2 @@
 # Underground-life
-Underground Life is a modpack about how you get into the world of the post-apocalypse, but it's not the standard one.
+Underground Life is a modpack about a post-apocalyptic world, but it's not exactly standard.
